@@ -1,1 +1,1 @@
-file test3 cua test
+file test3 cua main
